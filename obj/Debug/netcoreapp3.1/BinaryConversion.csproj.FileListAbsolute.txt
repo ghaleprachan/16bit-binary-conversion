@@ -1,0 +1,13 @@
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\bin\Debug\netcoreapp3.1\BinaryConversion.exe
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\bin\Debug\netcoreapp3.1\BinaryConversion.deps.json
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\bin\Debug\netcoreapp3.1\BinaryConversion.runtimeconfig.json
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\bin\Debug\netcoreapp3.1\BinaryConversion.runtimeconfig.dev.json
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\bin\Debug\netcoreapp3.1\BinaryConversion.dll
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\bin\Debug\netcoreapp3.1\BinaryConversion.pdb
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\obj\Debug\netcoreapp3.1\BinaryConversion.csprojAssemblyReference.cache
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\obj\Debug\netcoreapp3.1\BinaryConversion.AssemblyInfoInputs.cache
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\obj\Debug\netcoreapp3.1\BinaryConversion.AssemblyInfo.cs
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\obj\Debug\netcoreapp3.1\BinaryConversion.csproj.CoreCompileInputs.cache
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\obj\Debug\netcoreapp3.1\BinaryConversion.dll
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\obj\Debug\netcoreapp3.1\BinaryConversion.pdb
+C:\Users\dell.DESKTOP-AR0KM9I\source\repos\BinaryConversion\obj\Debug\netcoreapp3.1\BinaryConversion.genruntimeconfig.cache
